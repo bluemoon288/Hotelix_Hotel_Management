@@ -11,23 +11,13 @@
     <!-- ========= tailwind css cdn link ======== -->
     <script src="https://cdn.tailwindcss.com"></script>
 
-    <!-- ========= tailwind css config link ======== -->
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        clifford: '#da373d',
-                    }
-                }
-            }
-        }
-    </script>
 </head>
 
 <body>
     <?php
     require_once('Hotelix/Shared/Header/header.php');
+
+    require_once("Hotelix/Shared/Footer/footer.php");
     ?>
 </body>
 

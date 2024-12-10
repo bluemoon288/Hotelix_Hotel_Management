@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsive Navbar with Dropdown</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Navbar</title>
     <style>
         /* Optional for smooth hover transition */
         .transition-all {
             transition: all 0.3s ease;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -19,7 +19,10 @@
     <nav class="bg-gray-900 p-4 shadow-lg">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <!-- ====== Logo or Brand Name ======== -->
-            <div class="text-white text-xl font-semibold">Hotelix</div>
+            <a href="#" class="cursor-pointer">
+                <!-- <img src="img/hotelix.png" alt="Image Description"> -->
+                <img src="<?php echo './Hotelix/assets/hotelLogo/hotelix.png'; ?>" alt="Hotelix_logo" class="w-[150px]">
+            </a>
 
             <!-- ======= Navbar links for larger screens ========= -->
             <div class="hidden md:flex space-x-8">
