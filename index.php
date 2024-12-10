@@ -27,7 +27,7 @@
 
 <body>
     <?php
-    require_once('Hotelix/Shared/header.php');
+    require_once('Hotelix/Shared/Header/header.php');
     ?>
 </body>
 
