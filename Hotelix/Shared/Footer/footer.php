@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <footer class="bg-gray-900 py-5">
+    <footer class="bg-gray-900 py-5 text-white">
         <section class="max-w-7xl mx-auto grid grid-cols-3 gap-5">
             <!-- ======== footer left content ====== -->
             <div class="">
