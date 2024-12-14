@@ -20,7 +20,6 @@
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <!-- ====== Logo or Brand Name ======== -->
             <a href="#" class="cursor-pointer">
-                <!-- <img src="img/hotelix.png" alt="Image Description"> -->
                 <img src="<?php echo './Hotelix/assets/hotelLogo/hotelix.png'; ?>" alt="Hotelix_logo" class="w-[150px]">
             </a>
 
