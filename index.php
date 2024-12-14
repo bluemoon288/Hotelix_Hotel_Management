@@ -11,13 +11,17 @@
     <!-- ========= tailwind css cdn link ======== -->
     <script src="https://cdn.tailwindcss.com"></script>
 
+    <!-- ======= vanila css ====== -->
+    <link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
     <?php
-    require_once('Hotelix/Shared/Header/header.php');
+    require_once('hotelix/shared/header/header.php');
 
-    require_once("Hotelix/Shared/Footer/footer.php");
+    require_once("hotelix/shared/footer/footer.php");
+
     ?>
 </body>
 

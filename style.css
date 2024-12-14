@@ -1,0 +1,15 @@
+root {
+    --primary-color: #fff;
+    --secondary-color: #121c22;
+}
+
+.dark {
+    --primary-color: #111827;
+    --secondary-color:#ffffff;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}

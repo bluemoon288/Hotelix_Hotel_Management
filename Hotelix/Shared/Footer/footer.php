@@ -8,12 +8,12 @@
 </head>
 
 <body>
-    <footer class="bg-gray-900 py-5 text-white">
+    <footer class="bg-gray-900 py-5 ">
         <section class="max-w-7xl mx-auto grid grid-cols-3 gap-5">
             <!-- ======== footer left content ====== -->
             <div class="">
                 <div class="footer_logo cursor-pointer">
-                    <img src="<?php echo './Hotelix/assets/hotelLogo/hotelix.png'; ?>" alt="Hotelix_logo"
+                    <img src="<?php echo './hotelix/assets/hotel_logo/hotelix.png'; ?>" alt="Hotelix_logo"
                         class="w-[150px]">
                 </div>
                 <p class="py-3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis odit officiis
