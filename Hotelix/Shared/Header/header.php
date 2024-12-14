@@ -47,6 +47,16 @@
                         <ul
                             class="dropdown-content absolute hidden bg-gray-900 text-white p-2 rounded shadow-lg top-full left-0 mt-0 w-48 group-hover:block">
                             <li><a href="#"
+                                    class="block px-4 py-2 hover:bg-emerald-400 border-r-2 border-gray-900 hover:border-white rounded-sm transition-all">Your
+                                    Rooms</a></li>
+                            <li><a href="#"
+                                    class="block px-4 py-2 hover:bg-emerald-400 border-r-2 border-gray-900 hover:border-white rounded-sm transition-all">Our
+                                    Restaurant</a></li>
+                            <li><a href="#"
+                                    class="block px-4 py-2 hover:bg-emerald-400 border-r-2 border-gray-900 hover:border-white rounded-sm transition-all">Our
+                                    Team</a></li>
+                            
+                            <li><a href="#"
                                     class="block px-4 py-2 hover:bg-emerald-400 border-r-2 border-gray-900 hover:border-white rounded-sm transition-all">About
                                     Hotel</a></li>
                             <li><a href="#"
