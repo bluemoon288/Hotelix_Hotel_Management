@@ -20,8 +20,12 @@
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <!-- ====== Logo or Brand Name ======== -->
             <a href="#" class="cursor-pointer">
+<<<<<<< HEAD
                 <img src="<?php echo './hotelix/assets/hotel_logo/hotelix.png'; ?>" alt="Hotelix_logo"
                     class="w-[150px]">
+=======
+                <img src="<?php echo './Hotelix/assets/hotelLogo/hotelix.png'; ?>" alt="Hotelix_logo" class="w-[150px]">
+>>>>>>> 130f687fc7c3678607c850fc5da817d24c96c271
             </a>
 
             <!-- ======= Navbar links for larger screens ========= -->
